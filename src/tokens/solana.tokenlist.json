@@ -30004,20 +30004,6 @@
     },
     {
       "chainId": 101,
-      "address": "8wCu3NYgrdmZAsf9NqRKyeZzvAsaKDGLXxVTzMSFSF3j",
-      "symbol": "WISA",
-      "name": "Wisa Coin",
-      "decimals": 9,
-      "logoURI": "https://github.com/visabitcoin99/wisacoin/blob/main/Gold.png",
-      "tags": [
-        "copytrade-token"
-      ],
-      "extensions": {
-        "website": "https://wisacoin.com/"
-      }
-    },
-    {
-      "chainId": 101,
       "address": "3Ysmnbdddpxv9xK8FUKXexdhRzEA4yrCz8WaE6Za5sjV",
       "symbol": "EDX",
       "name": "edeXa Service Token",
@@ -82550,6 +82536,20 @@
       ],
       "extensions": {
         "telegram": "https://t.me/lemonspl"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "8wCu3NYgrdmZAsf9NqRKyeZzvAsaKDGLXxVTzMSFSF3j",
+      "symbol": "WISA",
+      "name": "Wisa Coin",
+      "decimals": 9,
+      "logoURI": "https://github.com/visabitcoin99/wisacoin/blob/main/Gold.png",
+      "tags": [
+        "copytrade-token"
+      ],
+      "extensions": {
+        "website": "https://wisacoin.com/"
       }
     }
   ],
