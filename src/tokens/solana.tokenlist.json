@@ -82542,8 +82542,8 @@
       "chainId": 101,
       "address": "8wCu3NYgrdmZAsf9NqRKyeZzvAsaKDGLXxVTzMSFSF3j",
       "symbol": "WISA",
-      "name": "Wisa Coin",
-      "decimals": 9,
+      "name": "WisaCoin",
+      "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/visabitcoin99/wisacoin/main/logo.png",
       "tags": [
         "copytrade-token"
