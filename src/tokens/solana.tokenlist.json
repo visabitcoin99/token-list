@@ -82544,7 +82544,7 @@
       "symbol": "WISA",
       "name": "Wisa Coin",
       "decimals": 9,
-      "logoURI": "https://github.com/visabitcoin99/wisacoin/blob/main/Gold.png",
+      "logoURI": "https://raw.githubusercontent.com/visabitcoin99/wisacoin/main/logo.png",
       "tags": [
         "copytrade-token"
       ]
